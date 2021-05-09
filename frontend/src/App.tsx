@@ -1,5 +1,3 @@
-import BarChart from "components/BarChart";
-
 import Routes from "Routes";
 
 function App() {
